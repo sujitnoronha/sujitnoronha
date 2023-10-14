@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
-</p>
 <br>
 
 <p align="left"> 
@@ -29,7 +26,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Sujit Noronha.</h1>
 <h3 align="center">Machine Learning Engineer | Data Scientist </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/sujitnoronha" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="sujit_noronha" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/sujitnoronha" target="blank"><img align="center" src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" alt="sujit_noronha" height="30" width="40" /></a>  
  <a href = "mailto: sujitnoronha@outlook.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
@@ -62,7 +59,6 @@ developing high-impact models, optimizing processes and seamlessly integrating s
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>  
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>

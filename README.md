@@ -16,22 +16,17 @@ Here are some ideas to get you started:
 -->
 <br>
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
- </p>
- <p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Sujit Noronha.</h1>
 <h3 align="center">Machine Learning Engineer | Data Scientist </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/sujitnoronha" target="blank"><img align="center" src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" alt="sujit_noronha" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/sujitnoronha" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/9-1024.png" alt="sujit_noronha" height="30" width="40" /></a>  
  <a href = "mailto: sujitnoronha@outlook.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
-
-
 
 <p align="center">
   <em>
@@ -49,7 +44,7 @@ developing high-impact models, optimizing processes and seamlessly integrating s
 ✔ I’m working on semi-supervised learning systems for both NLP and computer vision<br>
 ✔ I also work on backend development using Django. <br>
 ✔ Actively learning more on MLOPS, Reinforcement learning and multi-modal NNs <br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
+✔ I’m looking to collaborate with any **Open - Source data science projects**<br><br><br>
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Machine Learning tools...***
@@ -63,11 +58,10 @@ developing high-impact models, optimizing processes and seamlessly integrating s
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>  
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
   <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
+  <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
+
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"> </code>
 
   <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-
 

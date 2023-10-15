@@ -50,14 +50,13 @@ developing high-impact models, optimizing processes and seamlessly integrating s
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Machine Learning tools...***
 <p align="left">
   
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>  
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
-  <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
   <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"> </code>

@@ -39,10 +39,10 @@ developing high-impact models, optimizing processes and seamlessly integrating s
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ I Experimenting with LLMs and agents. <br>
+✔ Currently Experimenting with LLMs and agents. <br>
 ✔ I’m working on semi-supervised learning systems for both NLP and computer vision<br>
 ✔ I also work on backend development using Django. <br>
-✔ Actively learning more on MLOPS, Reinforcement learning and multi-modal NNs <br>
+✔ Actively learning more about MLOPS, Reinforcement learning, and multi-modal NNs <br>
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br><br><br>
  
 

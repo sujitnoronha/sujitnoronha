@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   <em>
-    A MLE passionate about Natural Language Processing (NLP), Computer Vision and MLOPS. With expertise in
-developing high-impact models, optimizing processes and seamlessly integrating solutions
+    A Machine learning engineer passionate about Natural Language Processing (NLP), Computer Vision, and MLOPS. With expertise in
+developing high-impact models, optimizing processes, and seamlessly integrating solutions
   </em> 
   
 </p>
@@ -46,7 +46,7 @@ developing high-impact models, optimizing processes and seamlessly integrating s
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br><br><br>
  
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Machine Learning tools...***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tools...***
 <p align="left">
   
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </code>

@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sujit Noronha 👋</h1>
-<h3 align="center">Machine Learning Engineer — Voice AI · Multimodal LLMs · Evals</h3>
+<h3 align="center">Machine Learning Engineer — Voice AI · LLM Post-Training · Inference Optimization · Evals</h3>
 
 <p align="center">
   <a href="https://sujitnoronha.github.io">Portfolio</a> ·
@@ -19,7 +19,7 @@ MS in Artificial Intelligence, UC Santa Cruz.
 **Interspeech 2026.** A systematic comparison of prompt engineering, automated prompt optimization (DSPy MIPROv2), and reinforced self-training (ReST + LoRA) for audio reasoning under tight data and compute budgets, using Qwen3-Omni-30B on the MMAR benchmark. Structured reasoning prompts beat everything else: **+4.9 points over baseline (67.1 → 72.0)** at zero training cost.
 
 ### [Blind Deference: Authority-Driven Sycophancy in LLMs](https://github.com/sujitnoronha/llm_sycophancy_probing)
-A diagnostic benchmark probing how persona authority makes models capitulate in multi-turn conversations. Introduces the **Authority Vulnerability Index (AVI)**, measured across 8 open-weight models — from near-immune (Qwen3-30B, Llama-3.3-70B) to highly vulnerable (Gemma-3-12B). One-command harness: run it on your own model via vLLM or OpenRouter.
+**Oral presentation @ BayLearn 2026** (keynotes that year: Andrew Ng, Azalia Mirhoseini of Ricursive Intelligence, Ion Stoica). A diagnostic benchmark probing how persona authority makes models capitulate in multi-turn conversations — 21,000+ conversations across 10 domains and 8 open-weight models. Introduces the **Authority Vulnerability Index (AVI)**: from near-immune (Qwen3-30B, Llama-3.3-70B) to highly vulnerable (Gemma-3-12B), with reasoning-trained models 77% less vulnerable than standard RLHF models. One-command harness: run it on your own model via vLLM or OpenRouter.
 
 ### [VoiceCheck — end-to-end testing for voice agents](https://github.com/sujitnoronha/voicecheck)
 Write a YAML scenario; VoiceCheck synthesizes real audio, streams it through a real transport (**LiveKit / Daily / VAPI / Retell**), captures the agent's reply, and grades every turn with 13 evaluators — latency, tone, prompt leaks, roleplay consistency. Ships with a CLI, pytest integration, and a self-hosted dashboard. 357 tests passing.

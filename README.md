@@ -39,7 +39,7 @@ Fine-tuned OLMo-1B across instruction datasets with MLflow tracking, evaluated o
 
 ## 🌱 Currently exploring
 
-Mechanistic interpretability of tool-calling behavior, audio-native reasoning models, and better evaluation harnesses for conversational agents.
+Knowledge-graph-based long-term memory for LLM agents, mechanistic interpretability of tool-calling behavior, audio-native reasoning models, and better evaluation harnesses for conversational agents.
 
 ---
 
